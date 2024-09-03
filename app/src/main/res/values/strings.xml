@@ -1,0 +1,27 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="title">Tic Tac Toe Game</string>
+    <string name="button_text">Start Playing</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="play_music">Play Music</string>
+    <string name="choice_text">choose the mode you want to play:</string>
+    <string name="choice_button_1">Playing With Friends Mode.</string>
+    <string name="choice_button_2">Playing With Computer Mode.</string>
+    <string name="Friend_Score">Players Score:</string>
+    <string name="Friend_Player_1">Player A</string>
+    <string name="Friend_Player_2">Player B</string>
+    <string name="Computer_Player_1">Player</string>
+    <string name="Computer_Player_2">Computer</string>
+    <string name="EXIT_BUTTON">Exit From Game</string>
+    <string name="Turn_O">O\'s Turn - Tap to play.</string>
+    <string name="Turn_x">x\'s Turn - Tap to play.</string>
+    <string name="x_won">X has won</string>
+    <string name="o_won">O has won</string>
+    <string name="Draw">Match Draw</string>
+    <string name="contact">Contact With Us</string>
+
+
+
+</resources>

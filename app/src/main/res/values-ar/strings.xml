@@ -1,0 +1,26 @@
+<!-- res/values-ar/strings.xml -->
+<resources>
+    <string name="app_name">لعبة X و O</string>
+    <string name="title">لعبة X و O</string>
+    <string name="button_text">أبدأ اللعب</string>
+    <string name="settings">الإعدادات</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="play_music">تشغيل الموسيقى</string>
+    <string name="choice_text">أختر الوضع الذي تريد اللعب به:</string>
+    <string name="choice_button_1">وضع اللعب مع الأصدقاء.</string>
+    <string name="choice_button_2">وضع اللعب مع الكومبيوتر.</string>
+    <string name="Friend_Score">نتائج اللاعبين</string>
+    <string name="Friend_Player_1">اللاعب الأول</string>
+    <string name="Friend_Player_2">اللاعب الثاني</string>
+    <string name="EXIT_BUTTON">الخروج من اللعبه</string>
+    <string name="Turn_O">دور O, أنقر للعب.</string>
+    <string name="Turn_x">دور X, أنقر للعب.</string>
+    <string name="x_won">لقد فاز X.</string>
+    <string name="o_won">لقد فاز O.</string>
+    <string name="Draw">تعادل .</string>
+    <string name="Computer_Player_1">اللاعب </string>
+    <string name="Computer_Player_2">الكومبيوتر</string>
+    <string name="contact">تواصل معنا</string>
+
+</resources>
+
